@@ -1,4 +1,5 @@
 # Hypothesis Testing for Vectorized Persistence Diagram
+Topological data analysis involves the statistical characterization of the shape of data. Persistent homology is a primary tool of topological data analysis, which can be used to analyze topological features and perform statistical inference. We present a two-stage hypothesis test for vectorized persistence diagrams. The first stage filters vector elements in the vectorized persistence diagrams to enhance the power of the test. The second stage consists of multiple hypothesis tests, with false positives controlled by false discovery rates. We demonstrate the flexibility of our method by applying it to a variety of simulated and real-world data types. Our results show that the proposed hypothesis test enables accurate and informative inferences on the shape of data compared to the existing hypothesis testing methods for persistent homology.
 
 # Simulation 
 ## “./simulation_beetle” folder
