@@ -6,10 +6,12 @@ Topological data analysis involves the statistical characterization of the shape
 * `data_generation.R`: Generate point cloud data and compute persistence diagrams
 * `data_persistence_image.R`: Generate persistence images
 * `functions.R`: Functions for hypothesis tests
+* `result_fpr_power.R`: Create figures
 * `test_kernel.ipynb`: Conduct hypothesis tests using persistence weighted Gaussian kernel (PWGK)
 * `test_persistence_diagram.R`: Conduct hypothesis tests using persistence diagrams
 * `test_persistence_landscape.R `: Conduct hypothesis tests using persistence landscapes
 * `test_two_stage.R `: Conduct hypothesis tests using two-stage hypothesis testing
+* `test_two_stage_nofilter.R `: Conduct hypothesis tests using two-stage hypothesis testing, without a filtering step
 
 ## “./simulation_beetle” folder
 * `data_persistence_diagram.R`: Generate beetle population data and compute persistence diagrams
